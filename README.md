@@ -1,5 +1,5 @@
-#HW04B
+# HW04B Description
 1. At first, I made sure to define the background in the setup section, to make sure we preserve the trail of drawn objects.
 2. then, I further defined the 'mouseClick' function. I liked this function the most, because it felt 'right'. Mouse move/drag created a messy, unorganized trail and mousePress has an unsatisfactory tactile response. Additionally, I liked mouseClicked the most because you can technically make artwork (over which you have some sort of control) by using it.
 3. Rectangles appear at the X & Y coordinates of the mouse position.
-4. Firstly, all aspects of the color (RGB) have been randomized. Secondly, I also randomized the stroke weight and stroke color, to increase the variability from click to click. Finally, I also gave a randomizable range for the corner radius.
+4. Firstly, all aspects of the color (RGB) have been randomized. Secondly, I also randomized the stroke weight and stroke color, to increase the variability from click to click. Finally, I also gave a randomizable range for the width and height of each rectangle, as well as the corner radius.

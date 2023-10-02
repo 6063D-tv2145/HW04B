@@ -10,5 +10,5 @@ function mouseClicked() {
   fill(random(0,255), random(0,255), random(0,255));
     strokeWeight(random(1,10));
     stroke(random(0,255), random(0,255), random(0,255));
-    rect(mouseX, mouseY, random(100,200), random(100,200), random(5,20));
+    rect(mouseX, mouseY, random(20,200), random(10,200), random(5,20));
 }
